@@ -1,0 +1,111 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "e0c6dbcc5c3fe45c9126",
+  "publicPath": "/",
+  "outputPath": "D:\\Git\\my-app\\build",
+  "assetsByChunkName": {
+    "main": [
+      "static/js/bundle.js",
+      "main.7e71da756b3d03657d3c.hot-update.js",
+      "static/js/bundle.js.map",
+      "main.7e71da756b3d03657d3c.hot-update.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "7e71da756b3d03657d3c.hot-update.json",
+      "size": 46,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "main.7e71da756b3d03657d3c.hot-update.js",
+      "size": 267584,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "main.7e71da756b3d03657d3c.hot-update.js.map",
+      "size": 276755,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "static/js/bundle.js",
+      "size": 9323362,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "static/js/bundle.js.map",
+      "size": 9239429,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+        "development": true
+      },
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        "static/js/bundle.js",
+        "main.7e71da756b3d03657d3c.hot-update.js",
+        "static/js/bundle.js.map",
+        "main.7e71da756b3d03657d3c.hot-update.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "main",
+      "files": [
+        "static/js/bundle.js",
+        "main.7e71da756b3d03657d3c.hot-update.js",
+        "static/js/bundle.js.map",
+        "main.7e71da756b3d03657d3c.hot-update.js.map"
+      ]
+    }
+  ]
+}
